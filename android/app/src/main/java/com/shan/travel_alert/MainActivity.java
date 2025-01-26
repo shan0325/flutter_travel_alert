@@ -1,4 +1,4 @@
-package com.example.travel_alert;
+package com.shan.travel_alert;
 
 import io.flutter.embedding.android.FlutterActivity;
 

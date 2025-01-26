@@ -741,7 +741,7 @@ class _WebViewExampleState extends State<WebViewExample> {
           });
         },
       ),
-      bottomNavigationBar: AdMobComponent(),
+      // bottomNavigationBar: AdMobComponent(),
     );
   }
 }
